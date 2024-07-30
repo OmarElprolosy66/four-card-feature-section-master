@@ -30,11 +30,11 @@ Users should be able to:
 
 #### Desktop
 
-![Desktop Screenshot](images/screenshot-desktop.png)
+<img src="images/screenshot-desktop.png" alt="Desktop Screenshot" width="600">
 
 #### Mobile
 
-![Mobile Screenshot](images/screenshot-phone.png)
+<img src="images/screenshot-phone.png" alt="Mobile Screenshot" width="300">
 
 ### Links
 
