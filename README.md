@@ -2,8 +2,6 @@
 
 This is my solution to the [Four Card Feature Section challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) on Frontend Mentor. The task was to build a responsive four-card feature section using HTML and CSS.
 
-![Project Screenshot](./images/screenshot.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
