@@ -1,10 +1,13 @@
-# Frontend Mentor - Four Card Feature Section Solution
+# Four Card Feature Section Solution
 
-This is my solution to the [Four Card Feature Section challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub) on Frontend Mentor. This challenge helped me practice using CSS Grid and Flexbox to build a responsive layout with a desktop-first approach.
+This is my solution to the [Four Card Feature Section challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) on Frontend Mentor. The task was to build a responsive four-card feature section using HTML and CSS.
+
+![Project Screenshot](./images/screenshot.png)
 
 ## Table of Contents
 
 - [Overview](#overview)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
@@ -16,15 +19,27 @@ This is my solution to the [Four Card Feature Section challenge](https://www.fro
 
 ## Overview
 
+### The Challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size.
+- See hover states for all interactive elements on the page.
+
 ### Screenshot
 
-![Screenshot of the solution "desktop"](./images/screenshot-desktop.png.png)
-![Screenshot of the solution "phone"](./images/screenshot-phone.pngscreenshot-desktop.png.png)
+#### Desktop
+
+![Desktop Screenshot](./images/desktop-screenshot.png)
+
+#### Mobile
+
+![Mobile Screenshot](./images/mobile-screenshot.png)
 
 ### Links
 
-- [Solution URL](https://github.com/yourusername/four-card-feature-section)
-- [Live Site URL](https://yourusername.github.io/four-card-feature-section/)
+- Solution URL: [GitHub Repository](https://github.com/OmarElprolosy66/four-card-feature-section-master)
+- Live Site URL: [GitHub Pages](https://omarelprolosy66.github.io/four-card-feature-section-master/)
 
 ## My Process
 
@@ -34,13 +49,11 @@ This is my solution to the [Four Card Feature Section challenge](https://www.fro
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Desktop-first workflow
+- Mobile-first workflow
 
 ### What I Learned
 
-In this project, I followed a desktop-first workflow, designing for larger screens initially and then adjusting the layout for smaller devices. Here are the steps and techniques I used:
-
-1. **CSS Grid Layout for Desktop:** I used CSS Grid to create the layout for desktop devices, allowing for precise control over the placement and sizing of elements.
+Through this challenge, I improved my understanding of CSS Grid and Flexbox, which are crucial for creating responsive layouts. Here's a snippet of code I'm proud of:
 
 ```css
 .hero-sec {
@@ -49,3 +62,23 @@ In this project, I followed a desktop-first workflow, designing for larger scree
   grid-template-rows: repeat(4, 1fr);
   grid-gap: 2rem;
 }
+```
+
+This grid layout allowed me to create a responsive layout where each card is perfectly aligned and scales well on different screen sizes.
+
+### Continued Development
+
+In future projects, I want to focus more on:
+
+- Improving accessibility by ensuring all HTML elements are semantic and well-structured.
+- Experimenting with CSS animations and transitions to add subtle visual cues.
+
+### Useful Resources
+
+- [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - This resource helped me understand CSS Grid better and implement it effectively in this project.
+- [MDN Web Docs - Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - A comprehensive guide to understanding Flexbox.
+
+## Author
+
+- GitHub - [OmarElprolosy66](https://github.com/OmarElprolosy66)
+- Frontend Mentor - [@OmarElprolosy66](https://www.frontendmentor.io/profile/OmarElprolosy66)
